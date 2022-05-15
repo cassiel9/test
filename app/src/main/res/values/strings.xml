@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="добавить">добавить</string>
+    <string name="_0">0</string>
+</resources>
